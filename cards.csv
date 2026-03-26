@@ -1,0 +1,31 @@
+id,name,cost,type,archetype,target,rarity,buy_price,description,effects
+strike,Strike,1,attack,neutral,single,common,4,Deal 6 damage.,damage:6
+guard,Guard,1,defend,neutral,self,common,4,Gain 5 Block.,block:5
+thread_sense,Thread Sense,0,skill,neutral,self,common,4,Draw 1 card.,draw:1
+gather_threads,Gather Threads,1,skill,neutral,self,uncommon,8,Draw 3 cards.,draw:3
+meditation,Meditation,0,skill,neutral,self,uncommon,8,Gain 1 Energy.,energy:1
+transcend,Transcend,2,skill,neutral,self,rare,12,Draw 3. +1 Energy. +5 Block.,"draw:3, energy:1, block:5"
+binding_strike,Binding Strike,1,attack,rock,single,common,4,Deal 7 damage.,damage:7
+stone_guard,Stone Guard,1,defend,rock,self,common,4,Gain 7 Block.,block:7
+woven_armor,Woven Armor,1,attack,rock,single,common,4,Deal 3 dmg. Gain 5 Block.,"damage:3, block:5"
+bedrock_slam,Bedrock Slam,2,attack,rock,single,uncommon,8,Deal 15 damage.,damage:15
+iron_weave,Iron Weave,2,defend,rock,self,uncommon,8,Gain 12 Block.,block:12
+fortify_thread,Fortify Thread,1,skill,rock,self,uncommon,8,Gain 4 Block. +2 Str.,"block:4, strength:2"
+avalanche,Avalanche,3,attack,rock,single,rare,12,Deal 28 damage.,damage:28
+unbreakable,Unbreakable,2,defend,rock,self,rare,12,Gain 20 Block. Cleanse.,"block:20, cleanse:0"
+quick_cut,Quick Cut,1,attack,scissors,single,common,4,Deal 4 dmg. Heal 2.,"damage:4, heal:2"
+shred,Shred,1,attack,scissors,single,common,4,Deal 3 dmg x2.,"damage:3, damage:3"
+blood_draw,Blood Draw,0,attack,scissors,single,common,4,Deal 3 dmg. Draw 1.,"damage:3, draw:1"
+thousand_threads,Thousand Threads,2,attack,scissors,single,uncommon,8,Deal 2 dmg x5.,damage:2 x5
+drain_life,Drain Life,1,attack,scissors,single,uncommon,8,Deal 6 dmg. Heal equal.,"damage:6, lifesteal:6"
+razor_ribbon,Razor Ribbon,1,attack,scissors,all,uncommon,8,Deal 4 dmg ALL. 2 Psn ALL.,"damage:4, poison:2"
+death_of_cuts,Death of Cuts,3,attack,scissors,single,rare,12,Deal 3 dmg x8.,damage:3 x8
+blood_feast,Blood Feast,2,attack,scissors,single,rare,12,Deal 10 dmg. Heal 10.,"damage:10, heal:10"
+seal_thread,Seal Thread,1,skill,paper,single,common,4,Apply 2 Weak.,weak:2
+nullify,Nullify,1,defend,paper,single,common,4,Gain 6 Block. 1 Vuln.,"block:6, vulnerable:1"
+thread_trap,Thread Trap,1,attack,paper,single,common,4,Deal 4 dmg. 3 Poison.,"damage:4, poison:3"
+unravel_mind,Unravel Mind,2,skill,paper,single,uncommon,8,Apply 3 Weak + 2 Vuln.,"weak:3, vulnerable:2"
+silken_shield,Silken Shield,1,defend,paper,self,uncommon,8,Gain 8 Block. 1 Weak ALL.,"block:8, weak_all:1"
+venom_cloud,Venom Cloud,2,skill,paper,all,uncommon,8,Apply 5 Poison ALL.,poison:5
+grand_seal,Grand Seal,3,skill,paper,single,rare,12,3 Weak + 3 Vuln + 6 Psn.,"weak:3, vulnerable:3, poison:6"
+mirror_weave,Mirror Weave,2,defend,paper,self,rare,12,Gain 16 Block. +2 Str.,"block:16, strength:2"

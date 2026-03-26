@@ -1,0 +1,19 @@
+id,name,archetype,min_hp,max_hp,is_boss,archetype2,intent_cycle
+stone_sentinel,Stone Sentinel,rock,28,35,no,,defend:8 > attack:10 > attack:14
+granite_hound,Granite Hound,rock,18,24,no,,attack:8 > attack:12
+iron_golem,Iron Golem,rock,35,45,no,,defend:10 > defend:6 > attack:20
+frayed_hound,Frayed Hound,scissors,14,20,no,,attack:5 > attack:5 > attack:8
+thread_ripper,Thread Ripper,scissors,20,28,no,,attack:4 > attack:4 > lifesteal:6
+blood_weaver,Blood Weaver,scissors,24,32,no,,poison:3 > attack:6 > attack:6 > lifesteal:8
+hollow_acolyte,Hollow Acolyte,paper,22,28,no,,weak:2 > attack:7 > defend:8
+threadbare_shade,Threadbare Shade,paper,16,22,no,,poison:4 > attack:5 > vulnerable:2
+void_singer,Void Singer,paper,26,34,no,,weak:2 > vulnerable:2 > attack:10
+iron_warden,The Iron Warden,rock,60,70,yes,,defend:12 > attack:10 > str:2 > attack:16 > defend:8
+crimson_loom,The Crimson Loom,scissors,50,60,yes,,attack:5 > attack:5 > lifesteal:8 > attack:7 > lifesteal:10
+pale_weaver,The Pale Weaver,paper,55,65,yes,,weak:2 > poison:4 > attack:8 > vulnerable:2 > defend:10
+stone_mother,The Stone Mother,rock,85,95,yes,paper,defend:14 > weak:2 > attack:14 > defend:10 > str:3 > attack:20
+scarlet_twins,The Scarlet Twins,scissors,75,88,yes,rock,attack:6 > attack:6 > attack:12 > defend:8 > lifesteal:10 > attack:16
+null_prophet,The Null Prophet,paper,70,82,yes,scissors,weak:2 > vulnerable:2 > attack:8 > poison:6 > lifesteal:12
+the_adamantine,The Adamantine,rock,110,130,yes,,defend:16 > str:3 > attack:18 > defend:12 > attack:24 > attack:30
+the_exsanguinator,The Exsanguinator,scissors,100,120,yes,,attack:6 > attack:6 > attack:6 > lifesteal:14 > str:2 > attack:10 > lifesteal:18
+the_grand_weaver,The Grand Weaver,paper,105,125,yes,rock,weak:3 > vulnerable:3 > defend:14 > attack:16 > poison:8 > str:3 > attack:22

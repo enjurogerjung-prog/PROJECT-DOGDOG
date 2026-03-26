@@ -1,0 +1,11 @@
+id,name,description,buy_price,effect_type,effect_value,needs_confirm
+thread_spool,Thread Spool,+1 hand size.,15,hand_size,1,no
+council_seal,Council Seal,+1 energy per turn.,20,max_energy,1,no
+blood_ribbon,Blood Ribbon,Heal 3 after each fight.,10,post_fight_heal,3,no
+gold_thread,Gold Thread,Interest cap +2.,12,interest_cap,2,no
+sharpening_stone,Sharpening Stone,+1 Str at fight start (resets).,15,start_strength,1,no
+shield_charm,Shield Charm,+4 Block at fight start (resets).,12,start_block,4,no
+void_lens,Void Lens,+2 sideboard size.,10,sideboard_size,2,no
+compact_loom,Compact Loom,-3 min deck size.,15,min_deck_size,-3,yes
+merchants_eye,Merchant's Eye,Shop cards cost 1g less.,10,shop_discount,1,no
+war_drum,War Drum,Synergy triggers at 2 cards.,18,synergy_threshold,-1,no
